@@ -16,7 +16,7 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 I aim to collaborate on projects that combine **engineering, healthcare, and AI technologies** to create impactful solutions. My focus is on improving the accuracy and efficiency of medical diagnostics and treatment through advanced tools and techniques.  
 
 
-## ⚡ Fun Fact  
+## ⚡   
 I’m fascinated by how **modern electronics** and **AI** can revolutionize healthcare, making treatments faster, more accurate, and more accessible to everyone.
 
 
