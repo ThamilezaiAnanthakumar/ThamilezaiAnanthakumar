@@ -32,7 +32,7 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka, special
   <a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white"/></a>
 </p>
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
