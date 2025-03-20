@@ -40,14 +40,14 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka*, specia
   <a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white"/></a>
 </p>
 
----
+
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 
 
 
- 📊 GitHub Stats:
+#📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThamilezaiAnanthakumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
