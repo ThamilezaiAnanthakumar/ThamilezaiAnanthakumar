@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
-<img src="assets/humans.jpg" width="2000" height="500" />
+<img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
   
 
 
@@ -44,7 +44,6 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka*, specia
 ###
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
-<img align="right" height="200" src="https://pin.it/3dJo8BCDq"  />
 
 
 # 📊 GitHub Stats:
