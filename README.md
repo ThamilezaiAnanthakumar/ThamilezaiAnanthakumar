@@ -7,7 +7,7 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 
 ## 🌟 Interests  
 🔬 **Biomedical Engineering** | 🧠 **Neuroscience** | 📡 **Signal & Image Processing**  
-👀 **Computer Vision** | 💻 **Bioinformatics** | 🤖 **AI & Machine Learning**  
+👀 **Computer Vision** | 🤖 **AI & Machine Learning in healthcare**  
 ⚙️ **Instrumentation** | 🏥 **Medical Diagnostics**  
 
 ## 🛠 Programming Languages & Tools  
