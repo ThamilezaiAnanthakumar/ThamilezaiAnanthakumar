@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
-<img src="assets/humans.jpg" width="700" height="500">
+<img src="assets/humans.jpg" width="1800" height="400" />
   
 
 
