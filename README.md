@@ -3,7 +3,7 @@
 ![Biomedical AI Banner](https://your-image-url.com)  
 
 ## 🧠 About Me  
-I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, specializing in **Biomedical Engineering** within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating **electronics, AI, and healthcare** to drive innovation in medical diagnostics and wearable technologies.  
+I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, specializing in **Biomedical Engineering** within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating **electronics, AI, and healthcare** to drive innovation in medical diagnostics and **wearable technologies**.  
 
 ## 🌟 Interests  
 🧠 **Neuroscience & Brain Stimulation** | 📡 **Signal & Image Processing**  
@@ -31,13 +31,6 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 </p>
 
 
-
-## 📌 Contributions  
-- Developed **AI-based biomedical signal analysis models** for detecting patterns in **ECG & EEG signals**.  
-- Worked on **wearable devices** integrating **ESP32, Raspberry Pi, and sensors** for real-time monitoring.  
-- Explored **brain stimulation techniques** using **signal processing and AI**.  
-- Designed **custom PCBs and electronic circuits** using **Altium, EasyEDA, and LTSpice**.  
-
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThamilezaiAnanthakumar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamilezaiAnanthakumar&layout=compact&theme=radical)  
@@ -49,5 +42,4 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 
 ---
 
-### **Want a Custom AI-Generated Banner Image?**  
-I can generate an **AI brain stimulation banner** with **neural networks, biomedical signals (ECG/EEG), and programming elements**. Let me know if you want me to create one! 😊  
+
