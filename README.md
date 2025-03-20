@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
-<img align="center" height="200" src="assets/brain2.gif"  />
+<img align="center" height="1000" src="assets/brain2.gif"  />
   
 
 
