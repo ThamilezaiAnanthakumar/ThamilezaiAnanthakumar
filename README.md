@@ -9,26 +9,27 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 🧠 **Neuroscience & Brain Stimulation** | 📡 **Signal & Image Processing**  
 👀 **Computer Vision** | 🤖 **AI & Machine Learning** | 🏥 **Biomedical Instrumentation**  
 
-## 🛠 Technologies I Work With  
+## 🛠 Technologies I Work With    
 
-| Technology | Description |
-|------------|------------|
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | General-purpose programming |
-| [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) | Deep learning framework |
-| [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) | Machine learning library |
-| [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) | Numerical computing |
-| [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) | Low-level programming |
-| [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) | Embedded systems |
-| [![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/) | Edge computing |
-| [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) | IoT development |
-| [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) | Version control |
-| [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/) | Web app development |
-| [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) | Data manipulation |
-| [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) | Scientific computing |
-| [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/) | Data visualization |
-| [![LTSpice](https://img.shields.io/badge/LTSpice-FF9E0F?style=for-the-badge)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) | Circuit simulation |
-| [![Altium](https://img.shields.io/badge/Altium-0085CA?style=for-the-badge)](https://www.altium.com/) | PCB design |
-| [![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/) | CAD design |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTSpice-FF9E0F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Altium-0085CA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white"/>
+</p>
+
 
 ## 📌 Contributions  
 - Developed **AI-based biomedical signal analysis models** for detecting patterns in **ECG & EEG signals**.  
