@@ -5,7 +5,7 @@
 
 
 ## 🧠 About Me  
-I am an undergraduate student at the *University of Moratuwa, Sri Lanka, specializing in **Biomedical Engineering* within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating *electronics, AI, and healthcare* to drive innovation in medical diagnostics and *wearable technologies*.  
+I am an undergraduate student at the *University of Moratuwa, Sri Lanka*, specializing in **Biomedical Engineering** within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating *electronics, AI, and healthcare* to drive innovation in medical diagnostics and *wearable technologies*.  
 
 ## 💡 Interests  
 🧠 *Neuroscience & Brain Stimulation* | 📡 *Bio-Signal & Medical-Image Processing*  
@@ -39,6 +39,12 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka, special
   <a href="https://www.altium.com/"><img src="https://img.shields.io/badge/Altium-0085CA?style=for-the-badge"/></a>
   <a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white"/></a>
 </p>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 
 
