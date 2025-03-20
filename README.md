@@ -45,8 +45,7 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka*, specia
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 
-###
- ---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
