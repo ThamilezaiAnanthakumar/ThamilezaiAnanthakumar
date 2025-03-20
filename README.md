@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
 ![Biomedical AI Banner](assets/humans.jpg)  
-<img src="https://github.com/ThamilezaiAnanthakumar /ThamilezaiAnanthakumar /raw/main/bio.mp4" width="500">
+<img src="https://github.com/ThamilezaiAnanthakumar /ThamilezaiAnanthakumar /raw/main/assets/bio.mp4" width="500">
 
 
 ## 🧠 About Me  
