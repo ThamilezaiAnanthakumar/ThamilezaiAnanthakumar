@@ -47,7 +47,7 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka*, specia
 
 
 
-# 📊 GitHub Stats:
+ 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThamilezaiAnanthakumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamilezaiAnanthakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
