@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
 ![Biomedical AI Banner](assets/humans.jpg)  
+<img src="https://github.com/ThamilezaiAnanthakumar /ThamilezaiAnanthakumar /raw/main/bio.mp4" width="500">
+
 
 ## 🧠 About Me  
 I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, specializing in **Biomedical Engineering** within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating **electronics, AI, and healthcare** to drive innovation in medical diagnostics and **wearable technologies**.  
