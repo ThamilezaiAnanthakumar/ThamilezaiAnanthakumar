@@ -6,8 +6,8 @@
 I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, specializing in **Biomedical Engineering** within the Department of Electronic and Telecommunication Engineering. I am passionate about integrating **electronics, AI, and healthcare** to drive innovation in medical diagnostics and **wearable technologies**.  
 
 ## 🌟 Interests  
-🧠 **Neuroscience & Brain Stimulation** | 📡 **Signal & Image Processing**  
-👀 **Computer Vision** | 🤖 **AI & Machine Learning** | 🏥 **Biomedical Instrumentation**  
+🧠 **Neuroscience & Brain Stimulation** | 📡 **Bio-Signal & Medical-Image Processing**  
+👀 **Computer Vision in healthcare** | 🤖 **AI & Machine Learning in healthacare** | 🏥 **Biomedical Instrumentation**  
 
 ## 🛠 Technologies I Work With    
 
