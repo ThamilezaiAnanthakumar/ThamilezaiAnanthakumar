@@ -9,7 +9,15 @@ I am an undergraduate student at the *University of Moratuwa, Sri Lanka, special
 
 ## 💡 Interests  
 🧠 *Neuroscience & Brain Stimulation* | 📡 *Bio-Signal & Medical-Image Processing*  
-💻 *Computer Vision in healthcare* | 🤖 *AI & Machine Learning in healthacare* | 🏥 *Biomedical Instrumentation* | 🦴 *Physiological Modelling* 
+💻 *Computer Vision in healthcare* | 🤖 *AI & Machine Learning in healthacare* | 🏥 *Biomedical Instrumentation* | 🦴 *Physiological Modelling*
+
+
+## 🚀 Connect with Me  
+📧 *Email*: [thamilezaiananthakumar@gmail.com](mailto:thamilezaiananthakumar@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThamilezaiAnanthakumar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamilezai-ananthakumar-387a922a4)  
+
+
 
 ## 🛠 Technologies I Work With    
 
