@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Thamilezai Ananthakumar  
 
 ![Biomedical AI Banner](assets/humans.jpg)  
-<img src="https://github.com/ThamilezaiAnanthakumar /ThamilezaiAnanthakumar /raw/main/assets/bio.mp4" width="500">
+<video width="500" controls>
+  <source src="https://raw.githubusercontent.com/ThamilezaiAnanthakumar/ThamilezaiAnanthakumar/main/assets/bio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🧠 About Me  
