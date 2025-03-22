@@ -17,6 +17,10 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThamilezaiAnanthakumar)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamilezai-ananthakumar-387a922a4)  
 
+## My Blog Page 
+🌐 **Blog:** [My Research Review Blog](🌐 **Blog:** [My Research Blog](https://yourbloglink.com)
+
+
 
 
 ## 🛠 Technologies I Work With    
