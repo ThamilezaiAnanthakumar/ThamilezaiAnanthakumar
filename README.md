@@ -19,7 +19,7 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 
 ## 📚 My Blog Page 
 I publish my research reviews and thoughts related to biomedical engineering applications here, aiming to contribute to the ongoing discussion and development in the field.
-[🌐 **Blog:** ](https://yourbloglink.com)
+[🌐 **Blog:** ](https://medium.com/@thamilezaiananthakumar)
 
 
 
