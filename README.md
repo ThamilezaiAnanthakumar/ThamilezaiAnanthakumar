@@ -10,7 +10,7 @@ I am an undergraduate student at the **University of Moratuwa, Sri Lanka**, spec
 .
 ## 💡 Interests  
 
-🧑‍💻 *Digital Twin for Healthcare* | 🦴 *Physiological Modelling* |📡 *Bio-Signal Processing* |🏥 * Wearable Sensor Design* 
+🧑‍💻 *Digital Twin for Healthcare* | 🦴 *Physiological Modelling* |📡 *Bio-Signal Processing* |🏥  *Wearable Sensor Design* 
 
 
 ## 🚀 Connect with Me  
